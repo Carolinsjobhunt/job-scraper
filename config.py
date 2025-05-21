@@ -45,14 +45,14 @@ ACTIVE_CHECK_RETRY_DELAY = 10 # Base delay for retrying active check
 # --- DO NOT MODITY THE ABOVE SECTION ---
 
 # --- LinkedIn Search Configuration ---
-LINKEDIN_SEARCH_QUERIES = ["it support", "full stack web developer", "application support", "cybersecurity analyst", "AI"]
+LINKEDIN_SEARCH_QUERIES = ["quality assurance specialist", "quality engineer", "associate regulatory", "quality technician"]
 LINKEDIN_LOCATION = "Singapore"
 LINKEDIN_GEO_ID = 102454443 # Singapore
 LINKEDIN_JOB_TYPE = "F" # Full-time
 LINKEDIN_JOB_POSTING_DATE = "r86400" # Past 24 hours
 
 #  --- Careers Future Search Configuration ---
-CAREERS_FUTURE_SEARCH_QUERIES = ["IT Support", "Full Stack Web Developer", "Application Support", "Cybersecurity Analyst", "Artifical Intelligence"]
-CAREERS_FUTURE_SEARCH_CATEGORIES = ["Information Technology"]
+CAREERS_FUTURE_SEARCH_QUERIES = ["quality assurance specialist", "quality engineer", "associate regulatory", "quality technician", "iso13485"]
+CAREERS_FUTURE_SEARCH_CATEGORIES = []
 CAREERS_FUTURE_SEARCH_EMPLOYMENT_TYPES = ["Full Time"]
 
