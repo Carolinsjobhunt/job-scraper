@@ -30,5 +30,5 @@ jobs:
 
       - name: Run resume parser script
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # Uses a GitHub secret for the API key
+          GEMINI_FIRST_API_KEY: ${{ secrets.GEMINI_FIRST_API_KEY }} # Uses a GitHub secret for the API key
         run: python resume_parser.py
